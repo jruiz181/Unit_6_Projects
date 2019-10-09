@@ -6,15 +6,19 @@
    Case Problem 2
    
    Save your Fork Graphic Design Styles
-   Author: 
-   Date:   
+   Author: jeremiah ruiz
+   Date:   10-9-19
 
    Filename: sf_effects.css
 
 */
 
 /* Body Header Styles */
-
+body{
+   -webkit-filter: drop-shadow(10px 10px 50px)
+   filter: drop-shadow(10px 10px 50px);
+   color: rgb(51, 51, 51);
+}
 
 
 /* Navigation Tabs List Styles */
